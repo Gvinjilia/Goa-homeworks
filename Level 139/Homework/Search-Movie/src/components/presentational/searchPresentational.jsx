@@ -13,7 +13,17 @@ const SearchPresentational = ({ handleSubmit, movie }) => {
             <a href="#">Sign In</a>
         </form>
         {movie === null ? (
-            <p>No Movies Found</p>
+                <div className="noMoviesFound">
+                    <section id="mainImgCollage">
+                        <img src="./assets/collage.png" className="collage"/>
+                        <div className="movieMosaic">
+                            <h2>Free Movies to Watch,<br /> Anytime Anywhere.</h2>
+                            <p>The search is over! Let MovieMosaic help you find the perfect<br /> movie to watch tonight for free.</p>
+                            <button>Watch Free</button>
+                        </div>
+                    </section>
+                    <p className="noMoviesFoundP">No Movies Found</p>
+                </div>
         ) : movie ? (
             <section>
                 <section id="mainImgCollage">
