@@ -1,1 +1,1 @@
-// Charachter Counter Project
+// Character Counter Project
