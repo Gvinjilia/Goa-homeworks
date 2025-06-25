@@ -1,12 +1,12 @@
 import guineaPig from './assets/guineaPig.webp';
 import guineaPigs from './assets/guinea pigs.jpg';
-import R from './assets/R.jpeg';
-import lion from './assets/lion.png';
-import lion2 from './assets/lion (2).webp';
-import lion3 from './assets/lion.jpg';
-import lion5 from './assets/lion5.jpeg';
+import travelWithGuineaPig from './assets/travelWithGuineaPig.jpeg';
+import lion from './assets/lionPhoto1.png';
+import lion2 from './assets/lionPhoto2.webp';
+import lion3 from './assets/lionPhoto3.jpeg';
+import lion4 from './assets/lionPhoto4.jpg';
 import hedehog from './assets/hedgehog.webp';
-import hedgehog2 from './assets/OIP (1).jpeg';
+import hedgehog2 from './assets/hedgehog2.jpeg';
 function App() {
   return (
     <>
@@ -26,7 +26,7 @@ function App() {
         </div>
         <div className='pl-10 bg-yellow-500 h-200 w-150 flex flex-col justify-center items-center'>
           <h1 className='text-6xl mb-10'>The Complete <br /> Guid​e to <br /> Traveling With<br /> Your Guinea Pig</h1>
-          <img src={R} className='w-100 h-100 mb-5 rounded-full'/>
+          <img src={travelWithGuineaPig} className='w-100 h-100 mb-5 rounded-full'/>
         </div>
       </div>
       <h1 className='text-6xl mb-10 text-center'>Lions</h1>
@@ -45,7 +45,7 @@ function App() {
           <p className='mb-5'>No other animal embodies the blend of strength, unity,<br /> discipline, and purpose quite like the lion. In the wild,<br /> lions thrive in tightly bonded prides—each member valued, each <br /> voice essential. </p>
           <div className='flex flex-row gap-5'>
             <img src={lion3} className='w-55 h-70'/>
-            <img src={lion5} className='w-55 h-70'/>
+            <img src={lion4} className='w-55 h-70'/>
           </div>
         </div>
       </div>
