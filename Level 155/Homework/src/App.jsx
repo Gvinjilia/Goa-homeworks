@@ -1,6 +1,5 @@
 import { useState } from "react"
 import MyText from "./MyText";
-import FilterByName from "./FilterByName";
 
 function App() {
   const [count, setCount] = useState(0);
@@ -15,7 +14,6 @@ function App() {
       <button onClick={increase}>Increase By One</button>
 
       <MyText />
-      <FilterByName />
     </>
   )
 }
