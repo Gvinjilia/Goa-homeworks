@@ -21,4 +21,3 @@ console.log(process.version);
 // path - იც არის ჩაშენებული მოდული ის ჩვენ გვეხმარება file - ების ან folder - ების path - ებთად მუშაობაში
 
 console.log(os);
-console.log(process);
