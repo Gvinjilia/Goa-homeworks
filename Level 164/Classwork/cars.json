@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "brand": "Toyota",
+    "model": "Corolla",
+    "year": 2022,
+    "description": "Reliable and fuel-efficient sedan, perfect for daily driving."
+  },
+  {
+    "id": 2,
+    "brand": "Tesla",
+    "model": "Model 3",
+    "year": 2023,
+    "description": "All-electric car with advanced autopilot and minimalistic design."
+  },
+  {
+    "id": 3,
+    "brand": "BMW",
+    "model": "X5",
+    "year": 2021,
+    "description": "Luxury mid-size SUV offering comfort and performance."
+  },
+  {
+    "id": 4,
+    "brand": "Ford",
+    "model": "Mustang",
+    "year": 2020,
+    "description": "Classic American muscle car with powerful V8 engine."
+  },
+  {
+    "id": 5,
+    "brand": "Honda",
+    "model": "Civic",
+    "year": 2022,
+    "description": "Compact car known for reliability and affordability."
+  },
+  {
+    "id": 6,
+    "brand": "Chevrolet",
+    "model": "Camaro",
+    "year": 2021,
+    "description": "Aggressive styling and strong performance in a sports coupe."
+  },
+  {
+    "id": 7,
+    "brand": "Audi",
+    "model": "A4",
+    "year": 2023,
+    "description": "Elegant sedan with high-tech interior and smooth ride."
+  },
+  {
+    "id": 8,
+    "brand": "Mercedes-Benz",
+    "model": "C-Class",
+    "year": 2023,
+    "description": "Premium sedan combining performance and luxury."
+  },
+  {
+    "id": 9,
+    "brand": "Jeep",
+    "model": "Wrangler",
+    "year": 2022,
+    "description": "Off-road SUV built for adventure and rugged terrain."
+  },
+  {
+    "id": 10,
+    "brand": "Hyundai",
+    "model": "Elantra",
+    "year": 2021,
+    "description": "Compact sedan with modern design and smart features."
+  }
+]
