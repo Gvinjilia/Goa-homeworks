@@ -1,0 +1,2 @@
+// React native - არის Framework რომელიც დაშენებულია React - ზე, React native - ის დახმარებით ჩვენ შეგვძლია Mobile აპლიკაციების - ების აწყობა, React native - შეიქნმა
+// Meta - ს მიერ 2015 წელს, React native - არის სწრაფი
